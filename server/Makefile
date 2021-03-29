@@ -3,4 +3,4 @@ L4DIR  ?= $(PKGDIR)/../..
 
 TARGET = src
 
-include $(L4DIR)/mk/prog.mk
+include $(L4DIR)/mk/subdir.mk

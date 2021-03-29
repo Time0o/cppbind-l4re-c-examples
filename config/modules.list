@@ -1,0 +1,7 @@
+entry l4re-c-example-debug
+kernel fiasco -servial_esc
+roottask moe rom/example_debug.cfg
+module l4re
+module ned
+module example_debug.cfg
+module example_debug

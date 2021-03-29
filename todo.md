@@ -7,8 +7,10 @@
 
 ## dataspace.h
 TODO
+
 ## debug.h
-TODO
+* l4re\_debug\_obj\_debug [x]
+
 ## dma\_space.h
 TODO
 ## event.h
