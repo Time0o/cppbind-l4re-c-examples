@@ -19,8 +19,13 @@ TODO
 TODO
 ## inhibitor.h
 TODO
+
 ## log.h
-TODO
+* l4re\_log\_print       [x]
+* l4re\_log\_printn      [x]
+* l4re\_log\_print\_srv  [x]
+* l4re\_log\_printn\_srv [x]
+
 ## mem\_alloc.h
 TODO
 ## namespace.h

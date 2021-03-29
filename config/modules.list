@@ -5,3 +5,11 @@ module l4re
 module ned
 module example_debug.cfg
 module example_debug
+
+entry l4re-c-example-log
+kernel fiasco -servial_esc
+roottask moe rom/example_log.cfg
+module l4re
+module ned
+module example_log.cfg
+module example_log
